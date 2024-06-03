@@ -1,4 +1,4 @@
-# X-editable
+# editable
 In-place editing with Twitter Bootstrap, jQuery UI or pure jQuery.  
 
 ## Live Demo
